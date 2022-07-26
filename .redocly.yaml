@@ -2,6 +2,8 @@
 apis:
   sample@v1: 
     root: openapi/openapi.yaml
+    root: openapi2/petstore.yaml
+    root: opemapi3/petstor32e.yaml
 lint:
   extends:
     - recommended
