@@ -15,3 +15,5 @@ features.openapi:
     languages:
       - lang: curl
       - lang: Python
+      - lang: C#
+      - lang: PHP
